@@ -9,6 +9,7 @@
 ```
 this is a predictor for the site bloxybet.com
 PUT INSIDE CONSOLE OF INSPECT ELEMENT
+to get key, dm @suskid27 on discord
 
 a quick sneak peek of the predictor
 
